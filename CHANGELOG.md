@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.6.0 (2025-05-30)
+
+### Features
+
+- Feature bump 6
+  ([`0624233`](https://github.com/ravisayal/testProject/commit/0624233cc29df280b727dc0d11ddbf901f8e4c0d))
+
+
 ## v1.5.0 (2025-05-30)
 
 ### Features
