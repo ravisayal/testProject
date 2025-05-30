@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.5.0 (2025-05-30)
+
+### Features
+
+- Trigger semantic release with version bump 5
+  ([`cb44631`](https://github.com/ravisayal/testProject/commit/cb446318384d7183157d3790f02a7f377e670813))
+
+
 ## v1.4.0 (2025-05-30)
 
 ### Features
@@ -19,7 +27,6 @@
 
 
 ## v1.3.0 (2025-05-30)
-
 ### Features
 
 - Trigger semantic release with version bump 3
