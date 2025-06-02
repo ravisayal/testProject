@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.7.1 (2025-06-01)
+
+### Bug Fixes
+
+- Fixed version stamp issue
+  ([`ecdbcfc`](https://github.com/ravisayal/testProject/commit/ecdbcfc40343abc0e05c479b4e005b5d1a49764e))
+
+
 ## v1.7.0 (2025-06-01)
 
 ### Features
