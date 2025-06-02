@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.7.2 (2025-06-01)
+
+### Bug Fixes
+
+- Fixed version stamp issue-fix 2
+  ([`3a3acf5`](https://github.com/ravisayal/testProject/commit/3a3acf51aef188f81fd0361c76558fc3de87bc51))
+
+
 ## v1.7.1 (2025-06-01)
 
 ### Bug Fixes
