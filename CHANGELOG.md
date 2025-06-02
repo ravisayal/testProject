@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.7.0 (2025-06-01)
+
+### Features
+
+- Added subtraction functionality
+  ([`2b6906a`](https://github.com/ravisayal/testProject/commit/2b6906a80f780ad31fae8fb2bdcdd111f1fda4f9))
+
+
 ## v1.6.0 (2025-05-30)
 
 ### Features
